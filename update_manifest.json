@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "url": "https://github.com/ZoneJ561/psp-video-converter/releases/latest/download/PSPVideoConverterSetup.exe",
   "url_macos": "https://github.com/ZoneJ561/psp-video-converter/releases/latest/download/PSPVideoConverter-macOS.dmg",
-  "notes": "Adds THM artwork previews in the Library Organizer, reusable queue project save/load files, and an automated installer upgrade preservation test."
+  "notes": "Adds per-video audio-language selection and optional embedded text-subtitle burning, including saved queue-project support and joined-video conversion support."
 }

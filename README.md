@@ -48,6 +48,7 @@ The converter letterboxes or pillarboxes video instead of stretching it, so wide
 - Timeline thumbnail scanner, live frame preview, step controls, and contact-sheet picker.
 - Sequential queue THM picker for choosing a different thumbnail frame for each selected or queued video.
 - Queue project save and load files that preserve batch order, settings, disc-title selections, and per-video THM choices.
+- Per-video audio-language and embedded text-subtitle track picker with saved queue-project and joined-video support.
 - Per-video item settings for preset, quality, audio bitrate, volume, thumbnail time, filename template, and fit-to-size overrides.
 - Fit-to-size targets for 100 MB, 250 MB, 512 MB, 1 GB, or available output-drive space.
 - Preflight check for bundled tools, output-folder access, estimated size, disk space, encoder availability, and PSP compatibility notes.
