@@ -1,5 +1,9 @@
 # PSP Video Converter
 
+<p align="center">
+  <img src="docs/psp-video-converter-logo.png" alt="PSP Video Converter logo" width="360">
+</p>
+
 PSP Video Converter creates Sony PSP-compatible videos from common video files, permitted online downloads, and unencrypted DVD or Blu-ray folders.
 
 The Windows and macOS downloads are standalone. FFmpeg, FFprobe, and yt-dlp are already packaged with the app. End users do not need to install Python or extra conversion tools.
@@ -81,3 +85,9 @@ Only download online videos you own or have permission to download. Direct MP4 a
 ## Updates
 
 Use **Check Updates** inside the app to download future installers. The public repository intentionally contains release information and downloads only.
+
+## Project Updates And Support
+
+Follow the project creator on Instagram: [@God1yNigga](https://instagram.com/god1ynigga)
+
+Support development through Venmo: [venmo.com/godlynigga](https://venmo.com/godlynigga)
