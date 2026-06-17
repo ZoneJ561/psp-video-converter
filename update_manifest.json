@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "url": "https://github.com/ZoneJ561/psp-video-converter/releases/latest/download/PSPVideoConverterSetup.exe",
   "url_macos": "https://github.com/ZoneJ561/psp-video-converter/releases/latest/download/PSPVideoConverter-macOS.dmg",
-  "notes": "Fixes the initial window size so the full Convert workspace and bottom-right controls are visible at launch. Adds Library Select All for batch THM artwork and per-video rotation controls."
+  "url": "https://github.com/ZoneJ561/psp-video-converter/releases/latest/download/PSPVideoConverterSetup.exe",
+  "version": "1.6.3",
+  "notes": "Adds a visible Subtitle File picker, per-video external subtitle overrides, embedded subtitle language selection in Item Settings, and moves conversion options into a dedicated sidebar Options page so the queue stays visible. The Windows installer installs the unpacked onedir app layout with bundled FFmpeg, FFprobe, and yt-dlp."
 }
