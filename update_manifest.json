@@ -1,6 +1,7 @@
 {
-  "version": "1.6.4",
+  "version": "1.6.8",
   "url": "https://github.com/ZoneJ561/psp-video-converter/releases/latest/download/PSPVideoConverterSetup.exe",
   "url_macos": "https://github.com/ZoneJ561/psp-video-converter/releases/latest/download/PSPVideoConverter-macOS.dmg",
-  "notes": "Adds batch queue renaming for individually named episodes, imports multiple download URLs from TXT files, and widens the queue action layout so controls such as Remove Selected remain fully visible."
+  "sha256": "5ca41884479d9c70a0b06aa7f091e7db966171c434c68b5dc66e6a2e17c1573b",
+  "notes": "Improves library scanning, queue recovery, conversion preflight, performance profiles, thumbnail handling, standalone dependency packaging, and reliable application shutdown."
 }
