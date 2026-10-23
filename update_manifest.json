@@ -1,7 +1,7 @@
 {
-  "version": "1.6.8",
+  "version": "1.6.9",
   "url": "https://github.com/ZoneJ561/psp-video-converter/releases/latest/download/PSPVideoConverterSetup.exe",
   "url_macos": "https://github.com/ZoneJ561/psp-video-converter/releases/latest/download/PSPVideoConverter-macOS.dmg",
-  "sha256": "5ca41884479d9c70a0b06aa7f091e7db966171c434c68b5dc66e6a2e17c1573b",
-  "notes": "Improves library scanning, queue recovery, conversion preflight, performance profiles, thumbnail handling, standalone dependency packaging, and reliable application shutdown."
+  "sha256": "e4959348eccb9ab7cfc60a1de4269f4bc67ac8e0222bdbaf890e8448ec6fb91f",
+  "notes": "Automatically checks for application updates at startup, downloads new installers in the background, verifies their SHA-256 integrity, and displays the changelog before asking the user to install."
 }
