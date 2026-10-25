@@ -1,7 +1,7 @@
 {
-  "version": "1.6.10",
+  "version": "1.6.12",
   "url": "https://github.com/ZoneJ561/psp-video-converter/releases/latest/download/PSPVideoConverterSetup.exe",
   "url_macos": "https://github.com/ZoneJ561/psp-video-converter/releases/latest/download/PSPVideoConverter-macOS.dmg",
-  "sha256": "304d2478d4542f21770b592cb0c65c55a613c8c4ffd0ed493746e5b4bfe25ee8",
-  "notes": "Keeps the current volume percentage visible in bold beside the slider at every window size and updates the number immediately while the volume is adjusted."
+  "sha256": "a379233c51353c0b3a6c62453b3b6c6fc25af296e86771758488e9d83f0cedc9",
+  "notes": "Corrects oversized Extra Large subtitles for PSP playback, preserves optional font selection, and migrates older queue projects to the corrected size."
 }
