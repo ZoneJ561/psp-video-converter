@@ -1,7 +1,7 @@
 {
-  "version": "1.6.12",
+  "version": "1.6.13",
   "url": "https://github.com/ZoneJ561/psp-video-converter/releases/latest/download/PSPVideoConverterSetup.exe",
   "url_macos": "https://github.com/ZoneJ561/psp-video-converter/releases/latest/download/PSPVideoConverter-macOS.dmg",
-  "sha256": "a379233c51353c0b3a6c62453b3b6c6fc25af296e86771758488e9d83f0cedc9",
-  "notes": "Corrects oversized Extra Large subtitles for PSP playback, preserves optional font selection, and migrates older queue projects to the corrected size."
+  "sha256": "1048c8a9a1b362f48313906c38b89155d7a61690f9486345405a282b11d74d52",
+  "notes": "Matches the volume number to other labels and themes the subtitle font picker, its popup list, and scrollbar across theme changes."
 }
