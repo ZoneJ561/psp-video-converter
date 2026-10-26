@@ -1,7 +1,7 @@
 {
-  "version": "1.6.13",
+  "version": "1.6.14",
   "url": "https://github.com/ZoneJ561/psp-video-converter/releases/latest/download/PSPVideoConverterSetup.exe",
   "url_macos": "https://github.com/ZoneJ561/psp-video-converter/releases/latest/download/PSPVideoConverter-macOS.dmg",
-  "sha256": "1048c8a9a1b362f48313906c38b89155d7a61690f9486345405a282b11d74d52",
-  "notes": "Matches the volume number to other labels and themes the subtitle font picker, its popup list, and scrollbar across theme changes."
+  "sha256": "839f61032633278ea281fce1bc25c6438838c684d77a56f99293b867ffaa320f",
+  "notes": "Adds numeric subtitle font sizes and a selected-video preview; fixes preview timing, temporary-file access, and Item Settings preview layout."
 }
